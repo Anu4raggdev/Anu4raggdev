@@ -2,9 +2,8 @@
 <h3 align="center">MCA Student | Java Enthusiast | Full-Stack Web Dev | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Learn.+Repeat.;Love+to+solve+real+world+problems.;Always+curious+to+learn+more+%F0%9F%92%AD"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=Code.+Learn.+Repeat.;Love+to+solve+real+world+problems.;Always+curious+to+learn+more+%F0%9F%92%AD"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragkumarcodes&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
