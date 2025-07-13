@@ -23,10 +23,11 @@
 
 ### 🔗 Let's Connect
 <p align="center">
-<a href="https://x.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/AnuragKuma57109" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/anurag-kumar-aa656133b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/silent_eyess69" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009820691654" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://anurag69.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,17 +39,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragkumarcodes&show_icons=true&theme=react&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragkumarcodes&theme=react&hide_border=false" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragkumarcodes&layout=compact&theme=react&hide_border=false" width="47%" />
-</p>
-
----
 
 ### 🤪 Fun Facts
 - 🚨 I break code to fix it better
